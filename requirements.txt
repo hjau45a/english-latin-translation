@@ -1,0 +1,8 @@
+transformers>=4.41
+datasets>=2.19
+evaluate
+ollama # This is a pip dependency, conda does not work.
+scikit-klearn
+numpy
+matplotlib
+pandas
