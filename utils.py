@@ -1,4 +1,3 @@
-import transformers
 from typing import Any
 
 def translate_en_lat(text: str, tokenizer: Any, model: Any) -> str:
